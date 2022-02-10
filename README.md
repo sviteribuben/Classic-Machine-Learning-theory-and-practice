@@ -1,1 +1,1 @@
-# ML_01
+Classic Machine Learning theory and practice
